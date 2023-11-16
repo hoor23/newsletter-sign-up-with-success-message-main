@@ -199,8 +199,8 @@ display: none;
 
     .illustration {
       background-image: url(assets/images/illustration-sign-up-desktop.svg);
-      width: 64%;
-      height: auto;
+      width: 69%;
+      height: 558px;
       background-size: 98%;
       background-position-x: right;
     }
@@ -208,10 +208,11 @@ display: none;
     .container1 {
       background-color: white;
       margin: 0 auto;
-      width: 745px;
-      padding: 12px 14px 16px 0px;
+      width: 795px;
+      padding: 0px 14px 16px 0px;
       border: none;
       border-radius: 24px;
+      height: 568px;
     }
 
     .confirmation-section {
@@ -221,17 +222,18 @@ display: none;
 
     .subscription-section {
       flex-direction: row;
+      height: inherit;
     }
 
     .content {
       display: flex;
       flex-direction: column;
       justify-content: center;
-      padding: 23px 50px 18px 55px;
+      padding: 23px 44px 18px 55px
     }
 
     .content h1 {
-      font-size: 46px;
+      font-size: 49px;
     }
 
     /* .illustration {
