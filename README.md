@@ -29,13 +29,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/email%20submission%20form.png)
-![](./assets/images/submissionAlert.png)
+- **Newsletter sign-up form : Desktop design**
+
+   ![](./assets/images/email%20submission%20form.png)
+
+- **Newsletter sign-up form : Mobile design**
+
+  ![](./design/mobile-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hoor23/newsletter-sign-up-with-success-message-main.git)
-- Live Site URL: [Add live site URL here](https://hoor23.github.io/newsletter-sign-up-with-success-message-main/)
+- Solution URL: [https://github.com/hoor23/newsletter-sign-up-with-success-message-main.git](https://github.com/hoor23/newsletter-sign-up-with-success-message-main.git)
+- Live Site URL: [https://hoor23.github.io/newsletter-sign-up-with-success-message-main/](https://hoor23.github.io/newsletter-sign-up-with-success-message-main/)
 
 ## My process
 
