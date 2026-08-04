@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/newsletter-sign-up-with-success-message-main.git](https://github.com/hoor23/newsletter-sign-up-with-success-message-main.git)
-- Live Site URL: [https://hoor23.github.io/newsletter-sign-up-with-success-message-main/](https://hoor23.github.io/newsletter-sign-up-with-success-message-main/)
+- Solution URL: [https://github.com/HooriaSaeeda/newsletter-sign-up-with-success-message-main.git](https://github.com/HooriaSaeeda/newsletter-sign-up-with-success-message-main.git)
+- Live Site URL: [https://hooriasaeeda.github.io/newsletter-sign-up-with-success-message-main/](https://hooriasaeeda.github.io/newsletter-sign-up-with-success-message-main/)
 
 ## My process
 
@@ -97,7 +97,11 @@ document.querySelector('.subscriptionForm').addEventListener('submit', (e) => {
 
 ## Author
 
-- Github - [hoor23](https://github.com/hoor23)
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
 - Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
+
+## Acknowledgments
+This project was part of a challenge by Frontend Mentor.
+Special thanks to the Frontend Mentor community for their support.
 
